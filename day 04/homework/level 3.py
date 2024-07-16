@@ -6,6 +6,8 @@ from turtle import *
 
 width(7)
 
+
+speed(100)
 left(240)
 
 penup()
